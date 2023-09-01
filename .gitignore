@@ -1,0 +1,6 @@
+.vsccode
+build
+.idea
+cmake-build-debug
+objs
+*.o
