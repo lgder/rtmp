@@ -1,0 +1,3 @@
+[submodule "RtmpPush"]
+	path = RtmpPush
+	url = https://github.com/lgder/RtmpPush
